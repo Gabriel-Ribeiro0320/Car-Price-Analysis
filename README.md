@@ -39,3 +39,11 @@ Some of the visualizations generated include:
 📌 Correlation heatmap to identify connection between variables
 
 📌 Linear regression to predict price based on car age
+
+<h2>🚀Possible Improvements</h2>
+
+* Apply more advanced Machine Learning algorithms (Random Forest, XGBoost)
+
+* Create an interactive dashboard with Streamlit
+
+* Analyze more factors that impact price
