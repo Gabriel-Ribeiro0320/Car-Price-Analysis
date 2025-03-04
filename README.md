@@ -4,7 +4,7 @@
 
 <h2>📌About the project</h2>
 
-<p>This project aims to explore and analyze a dataset of used car prices, identifying patterns and relationships between variables such as brand, age, mileage, and number of owners. In addition, a linear regression model was applied to predict the price of vehicles based on age.</p>
+<p>This project aims to explore and analyze a dataset of used car prices, identifying patterns and connection between variables such as brand, age, mileage, and number of owners. In addition, a linear regression model was applied to predict the price of vehicles based on age.</p>
 
 <h2>Technologys</h2>
   
@@ -24,7 +24,7 @@
 
 ✔️ Correlation matrix between numerical variables
 
-✔️ Visualization of the relationship between price and car age
+✔️ Visualization of the connection between price and car age
 
 ✔️ Application of linear regression for price prediction
 
@@ -36,6 +36,6 @@ Some of the visualizations generated include:
 
 📌 Boxplots to compare prices between different brands
 
-📌 Correlation heatmap to identify relationships between variables
+📌 Correlation heatmap to identify connection between variables
 
 📌 Linear regression to predict price based on car age
